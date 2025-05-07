@@ -14,10 +14,14 @@ A command-line application to manage a company's employee database, allowing use
 - [Questions](#questions)
 
 ## Installation
-Clone the repositoryInstall dependencies with npm installSet up your MySQL database (see Database Setup below)Configure your database connection in config/connection.js
+Clone the repositoryInstall dependencies with npm install
+Set up your MySQL database 
+Configure your database connection in config/connection.js
 
 ## Usage
-Start the application with npm start or node index.jsUse the arrow keys to navigate the menuFollow prompts to view or modify data
+Start the application with node index.js
+Use the arrow keys to navigate the menu
+Follow prompts to view or modify data
 https://app.screencastify.com/v3/watch/InkZ1xUtIloEs77rybAl
 
 ## License
