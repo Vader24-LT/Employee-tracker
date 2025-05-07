@@ -18,6 +18,7 @@ Clone the repositoryInstall dependencies with npm installSet up your MySQL datab
 
 ## Usage
 Start the application with npm start or node index.jsUse the arrow keys to navigate the menuFollow prompts to view or modify data
+https://app.screencastify.com/v3/watch/InkZ1xUtIloEs77rybAl
 
 ## License
 
@@ -27,7 +28,6 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 Thank you for your interest in contributing to the Employee Tracker project! We welcome contributions from developers of all skill levels.
 
 ## Tests
-
 
 ## Questions
 For any questions, please contact me:
